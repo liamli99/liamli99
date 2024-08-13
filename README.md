@@ -8,4 +8,3 @@
 </p>
 <br>
 <p align="center">
-    <a href="https://leetcode.com/lizhengming/"><img width="50%" src="https://leetcode.card.workers.dev/lizhengming?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
